@@ -8,6 +8,10 @@
     "48": "images/icons/cat.png",
     "128": "images/icons/cat.png"
   },
+  "browser_action": {
+    "default_title": "Cheddar the Cat",
+    "default_popup": "popup/cheddarPopup.html"
+  },
   "web_accessible_resources": [
     "images/*"
   ],
